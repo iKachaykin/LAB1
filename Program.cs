@@ -102,7 +102,7 @@ namespace ConsoleApplication9
                     }
                 }
                 //-------------------------------------------------------------------------------------
-                Console.WriteLine("Igor");
+                Console.WriteLine("Senya");
 		Console.ReadKey();
             }
             catch (Exception)
